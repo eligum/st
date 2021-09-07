@@ -1,7 +1,6 @@
 *.orig
-*.ref
+*.rej
 *.o
-*.png
 st
 /patches
 config.def.h
